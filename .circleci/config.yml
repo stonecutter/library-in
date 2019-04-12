@@ -37,5 +37,5 @@ jobs:
       - run: npm run build
 
       # deploy
-      - run: cd dist & git init & git add -A & git checkout -b gh-pages & git commit -m 'deploy' & git push
+      - run: cd dist & git init & git add -A & git checkout -b gh-pages & git commit -m 'deploy' & git push -f git@github.com:stonecutter/library-in.git
 
