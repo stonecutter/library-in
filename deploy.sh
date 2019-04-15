@@ -13,8 +13,6 @@ cd dist
 # echo 'www.buzhanzuo.com' > CNAME
 
 git init
-git config user.email theresa7@qq.com
-git config user.name TabEnter
 git add -A
 git commit -m 'deploy'
 
