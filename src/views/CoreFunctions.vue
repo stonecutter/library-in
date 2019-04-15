@@ -3,20 +3,20 @@
     <div class="row">
       <div class="col-md-6">
         <FunctionTitle title="扫码上座流程"></FunctionTitle>
-        <MiniProgramOperationStepList
-          :mini-program-operation-step-items="stepItemsScanCode" data-role="content"></MiniProgramOperationStepList>
+        <MiniProgramOperationStepList :mini-program-operation-step-items="stepItemsScanCode"
+                                      data-role="content"></MiniProgramOperationStepList>
       </div>
       <div class="col-md-6">
         <FunctionTitle title="一键抢座流程"></FunctionTitle>
-        <MiniProgramOperationStepList
-          :mini-program-operation-step-items="stepItemsGrabSeat" data-role="content"></MiniProgramOperationStepList>
+        <MiniProgramOperationStepList :mini-program-operation-step-items="stepItemsGrabSeat"
+                                      data-role="content"></MiniProgramOperationStepList>
       </div>
     </div>
     <div class="row">
       <div class="col-md-8">
         <FunctionTitle title="座位预约流程"></FunctionTitle>
-        <MiniProgramOperationStepList
-          :mini-program-operation-step-items="stepItemsAppointment" data-role="content"></MiniProgramOperationStepList>
+        <MiniProgramOperationStepList :mini-program-operation-step-items="stepItemsAppointment"
+                                      data-role="content"></MiniProgramOperationStepList>
       </div>
       <div class="col-md-4">
         <FunctionTitle title="座位二维码" data-role="content"></FunctionTitle>

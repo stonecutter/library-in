@@ -30,7 +30,7 @@
   $title-line-height: 1.5;
   .advantage-list {
     padding: 60px 12px;
-    background: url(/src/assets/images/background-bookshelf-filled-with-books.jpg) center center / cover no-repeat;
+    background: url(../assets/images/background-bookshelf-filled-with-books.jpg) center center / cover no-repeat;
 
     .advantage-item {
       padding: 20px 0;

@@ -33,9 +33,6 @@ jobs:
             - node_modules
           key: v1-dependencies-{{ checksum "package.json" }}
 
-      # build
-      - run: npm run build
-
       # deploy
-      - run: cd dist & git init & git add -A & git checkout -b gh-pages & git commit -m 'deploy' & git push -f git@github.com:stonecutter/library-in.git
+      - run: bash deploy.sh
 
