@@ -9,8 +9,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
-    "bootstrap-vue": "^2.0.0-rc.18",
-    "core-js": "^2.6.5",
+    "argon-design-system-free": "^1.0.1",
     "vue": "^2.6.6",
     "vue-class-component": "^6.0.0",
     "vue-lazyload": "^1.2.6",

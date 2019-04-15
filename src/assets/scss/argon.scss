@@ -18,49 +18,49 @@
 
 // Core
 
-@import "bootstrap/functions";
+@import "~argon-design-system-free/assets/scss/bootstrap/functions";
 @import "custom/functions";
 
 @import "custom/variables";
-@import "bootstrap/variables";
+@import "~argon-design-system-free/assets/scss/bootstrap/variables";
 
-@import "bootstrap/mixins";
+@import "~argon-design-system-free/assets/scss/bootstrap/mixins";
 @import "custom/mixins";
 
 // Bootstrap components
 
-@import "bootstrap/root";
-@import "bootstrap/reboot";
-@import "bootstrap/type";
-@import "bootstrap/images";
-@import "bootstrap/code";
-@import "bootstrap/grid";
-@import "bootstrap/tables";
-@import "bootstrap/forms";
-@import "bootstrap/buttons";
-@import "bootstrap/transitions";
-@import "bootstrap/dropdown";
-@import "bootstrap/button-group";
-@import "bootstrap/input-group";
-@import "bootstrap/custom-forms";
-@import "bootstrap/nav";
-@import "bootstrap/navbar";
-@import "bootstrap/card";
-@import "bootstrap/breadcrumb";
-@import "bootstrap/pagination";
-@import "bootstrap/badge";
-@import "bootstrap/jumbotron";
-@import "bootstrap/alert";
-@import "bootstrap/progress";
-@import "bootstrap/media";
-@import "bootstrap/list-group";
-@import "bootstrap/close";
-@import "bootstrap/modal";
-@import "bootstrap/tooltip";
-@import "bootstrap/popover";
-@import "bootstrap/carousel";
-@import "bootstrap/utilities";
-@import "bootstrap/print";
+@import "~argon-design-system-free/assets/scss/bootstrap/root";
+@import "~argon-design-system-free/assets/scss/bootstrap/reboot";
+@import "~argon-design-system-free/assets/scss/bootstrap/type";
+@import "~argon-design-system-free/assets/scss/bootstrap/images";
+@import "~argon-design-system-free/assets/scss/bootstrap/code";
+@import "~argon-design-system-free/assets/scss/bootstrap/grid";
+@import "~argon-design-system-free/assets/scss/bootstrap/tables";
+@import "~argon-design-system-free/assets/scss/bootstrap/forms";
+@import "~argon-design-system-free/assets/scss/bootstrap/buttons";
+@import "~argon-design-system-free/assets/scss/bootstrap/transitions";
+@import "~argon-design-system-free/assets/scss/bootstrap/dropdown";
+@import "~argon-design-system-free/assets/scss/bootstrap/button-group";
+@import "~argon-design-system-free/assets/scss/bootstrap/input-group";
+@import "~argon-design-system-free/assets/scss/bootstrap/custom-forms";
+@import "~argon-design-system-free/assets/scss/bootstrap/nav";
+@import "~argon-design-system-free/assets/scss/bootstrap/navbar";
+@import "~argon-design-system-free/assets/scss/bootstrap/card";
+@import "~argon-design-system-free/assets/scss/bootstrap/breadcrumb";
+@import "~argon-design-system-free/assets/scss/bootstrap/pagination";
+@import "~argon-design-system-free/assets/scss/bootstrap/badge";
+@import "~argon-design-system-free/assets/scss/bootstrap/jumbotron";
+@import "~argon-design-system-free/assets/scss/bootstrap/alert";
+@import "~argon-design-system-free/assets/scss/bootstrap/progress";
+@import "~argon-design-system-free/assets/scss/bootstrap/media";
+@import "~argon-design-system-free/assets/scss/bootstrap/list-group";
+@import "~argon-design-system-free/assets/scss/bootstrap/close";
+@import "~argon-design-system-free/assets/scss/bootstrap/modal";
+@import "~argon-design-system-free/assets/scss/bootstrap/tooltip";
+@import "~argon-design-system-free/assets/scss/bootstrap/popover";
+@import "~argon-design-system-free/assets/scss/bootstrap/carousel";
+@import "~argon-design-system-free/assets/scss/bootstrap/utilities";
+@import "~argon-design-system-free/assets/scss/bootstrap/print";
 
 // Custom components
 
